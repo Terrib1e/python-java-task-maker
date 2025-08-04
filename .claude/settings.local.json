@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(move task_manager.py python-task-manager/)",
+      "Bash(mv:*)"
+    ],
+    "deny": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task title",
+      "description": "Task description",
+      "status": "pending",
+      "created_at": "2025-08-04T16:51:32.131820",
+      "completed_at": null
+    }
+  ],
+  "next_id": 2
+}

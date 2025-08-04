@@ -1,0 +1,26 @@
+{
+  "nextId": 4,
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Test task",
+      "description": "This is a test task",
+      "status": "pending",
+      "createdAt": "2025-08-04T16:57:15.4568839"
+    },
+    {
+      "id": 2,
+      "title": "Test task",
+      "description": "This is a test task",
+      "status": "pending",
+      "createdAt": "2025-08-04T17:03:57.5532825"
+    },
+    {
+      "id": 3,
+      "title": "Task title",
+      "description": "Task description",
+      "status": "pending",
+      "createdAt": "2025-08-04T17:04:03.3601864"
+    }
+  ]
+}

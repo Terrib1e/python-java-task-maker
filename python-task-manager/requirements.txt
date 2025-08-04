@@ -1,0 +1,7 @@
+# No external dependencies required
+# This application uses only Python standard library modules:
+# - json (for data persistence)
+# - os (for file operations)
+# - argparse (for CLI)
+# - datetime (for timestamps)
+# - typing (for type hints)
